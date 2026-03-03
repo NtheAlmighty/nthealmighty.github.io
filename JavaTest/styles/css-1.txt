@@ -1,0 +1,33 @@
+/* this look like one of them cowboy books */
+
+html {
+
+	background-color: #1f0505ff;
+
+}
+
+body {
+
+	background-color: #9c3232ff; /* any color value can (and should) use hex */
+	color: #ffbfbfff;
+
+	width: 900px;
+	margin: 20px auto;
+	padding: 0px 20px 20px 20px;
+	border: 10px solid #c95252ff;
+
+}
+
+h1 {
+
+	color: #ffffffff
+
+}
+
+img {
+
+	display: block;
+	margin: 100px auto;
+	max-width: 100%;
+
+}
